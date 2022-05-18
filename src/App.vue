@@ -11,7 +11,9 @@
       {{ name }}-{{ id }}
     </li>
   </ul>
+  <div></div>
 </template>
+
 
 <script>
 // import HelloWorld from '~/components/HelloWorld'
